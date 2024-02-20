@@ -1,4 +1,4 @@
-## Hey I'm Francesca 👋 🤠! 
+## Hey I'm Bella 👋 🤠! 
 
 💻 I'm a developer, engineer, space enthusiast, and data nerd. 
 
