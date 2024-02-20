@@ -1,16 +1,13 @@
-### Hi there 👋
+## Hey I'm Francesca 👋 🤠! 
 
-<!--
-**iffigueroa/iffigueroa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 I'm a developer, engineer, space enthusiast, and data nerd. 
 
-Here are some ideas to get you started:
+🦬 I completed my Bachelors degree in Computer Science a few years back.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 I got my start at an aerospace startup where I developed CubeSat payload software, implemented on-orbit image processing algorithms, and built scientific modeling software.
+
+👩‍⚕️ After that, I worked at a healthtech startup and focused on creating RPA to automate the medical billing process.
+
+👩‍🎓 Now, I'm taking some time to finish my Masters in Data Science! 
+
+🌱 I love working in Python, C/C++, R, and Java am working on leveling up my web dev skills when I'm not studying.
